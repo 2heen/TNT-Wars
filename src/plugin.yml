@@ -1,0 +1,13 @@
+name: TNTWars
+version: 1.0.0
+description: TNT Wars
+author: TSBloxorz
+main: me.tsbloxorz.tntwars.main
+
+commands:
+    tnt:
+        usage: /tnt <command>
+        description: TNT Wars Setup
+        permission: bomblobbers.setup
+        permission-message: I want to setup BombLobbers too, but not today.
+
